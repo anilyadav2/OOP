@@ -3,7 +3,7 @@ from datetime import date
 import car_class as cc
 
 
-d=cc.car('19_sx','Toyota')
+d=cc.car('2019_carmy','Toyota')
 
 print(d)
 
